@@ -3,3 +3,4 @@ For å kompilere
 ```
 gcc readfile.c -o readfile
 ```
+# smile
